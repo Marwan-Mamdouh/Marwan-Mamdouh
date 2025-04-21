@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **marwanabdalmagied@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sLQk_nkU3VB2S62IRIhDtpOoXY2tU497/view?usp=sharing]
+- 📄 Know about my experiences [[CV](https://github.com/Marwan-Mamdouh/Marwan-Mamdouh/blob/272a1430de13ff388fca2a70587d297605096173/Marwan%20abdalMagied%20Back-End%20Developer.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
