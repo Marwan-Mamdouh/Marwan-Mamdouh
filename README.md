@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marwan AbdalMagied</h1>
 <h3 align="center">Passionate back-end developer.</h3>
 
-- 🔭 I’m currently working on **Spring Boot Project**
+- 🔭 I’m currently working on **Spring Boot and Spring Shell Project**
 
-- 🌱 I’m currently learning **Spring Boot, Data, Security**
+- 🌱 I’m currently learning **Spring Boot, Spring Data JPA, Security and Shell**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java and Spring Boot**
 
 - 📫 You can reach me at **marwanabdalmagied@gmail.com**
 
