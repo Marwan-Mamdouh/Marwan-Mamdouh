@@ -105,7 +105,7 @@ Currently teaching Node.js and Express at IEEE Al-Azhar while looking for a juni
 
 <div align="center">
 
-**Looking for junior backend roles in Cairo (on-site or hybrid).**
+**Looking for backend roles in Cairo (on-site or hybrid) or remote.**
 [marwanabdalmagied@gmail.com](mailto:marwanabdalmagied@gmail.com)
 
 </div>
