@@ -15,7 +15,7 @@
 
 I build backend systems with TypeScript and Node.js — focused on clean architecture, honest validation, and code I'd be comfortable putting my name on. I care about **why** before **how**.
 
-Currently teaching Node.js and Express at IEEE Al-Azhar while looking for a junior backend role in Cairo.
+Currently teaching Node.js and Express at IEEE Al-Azhar while looking for a backend role in Cairo.
 
 ---
 
